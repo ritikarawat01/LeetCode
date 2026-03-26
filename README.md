@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ritikarawat01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/ritikarawat01/LeetCode/tree/master/0047-permutations-ii) |
+| [0739-daily-temperatures](https://github.com/ritikarawat01/LeetCode/tree/master/0739-daily-temperatures) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ritikarawat01/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sorting
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ritikarawat01/LeetCode/tree/master/0037-sudoku-solver) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ritikarawat01/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ritikarawat01/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
