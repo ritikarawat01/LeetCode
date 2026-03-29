@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ritikarawat01/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ritikarawat01/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ritikarawat01/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ritikarawat01/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -20,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ritikarawat01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/ritikarawat01/LeetCode/tree/master/0047-permutations-ii) |
+| [0268-missing-number](https://github.com/ritikarawat01/LeetCode/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/ritikarawat01/LeetCode/tree/master/0739-daily-temperatures) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ritikarawat01/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ritikarawat01/LeetCode/tree/master/0047-permutations-ii) |
+| [0268-missing-number](https://github.com/ritikarawat01/LeetCode/tree/master/0268-missing-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ritikarawat01/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -40,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ritikarawat01/LeetCode/tree/master/0037-sudoku-solver) |
+| [0268-missing-number](https://github.com/ritikarawat01/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -52,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ritikarawat01/LeetCode/tree/master/0739-daily-temperatures) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ritikarawat01/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
