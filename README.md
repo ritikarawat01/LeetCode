@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritikarawat01/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ritikarawat01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ritikarawat01/LeetCode/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/ritikarawat01/LeetCode/tree/master/0461-hamming-distance) |
 ## Recursion
 |  |
 | ------- |
