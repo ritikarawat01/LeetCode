@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritikarawat01/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ritikarawat01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ritikarawat01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/ritikarawat01/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/ritikarawat01/LeetCode/tree/master/0739-daily-temperatures) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ritikarawat01/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sorting
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ritikarawat01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritikarawat01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ritikarawat01/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
