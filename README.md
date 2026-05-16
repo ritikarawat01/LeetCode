@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritikarawat01/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ritikarawat01/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/ritikarawat01/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/ritikarawat01/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ritikarawat01/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritikarawat01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -165,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ritikarawat01/LeetCode/tree/master/0844-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ritikarawat01/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ritikarawat01/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
