@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ritikarawat01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/ritikarawat01/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ritikarawat01/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ritikarawat01/LeetCode/tree/master/0342-power-of-four) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ritikarawat01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/ritikarawat01/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ritikarawat01/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ritikarawat01/LeetCode/tree/master/0509-fibonacci-number) |
@@ -150,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ritikarawat01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/ritikarawat01/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
