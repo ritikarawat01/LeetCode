@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritikarawat01/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ritikarawat01/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ritikarawat01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/ritikarawat01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/ritikarawat01/LeetCode/tree/master/0047-permutations-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ritikarawat01/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ritikarawat01/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ritikarawat01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ritikarawat01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/ritikarawat01/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ritikarawat01/LeetCode/tree/master/0876-middle-of-the-linked-list) |
