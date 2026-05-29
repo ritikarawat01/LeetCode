@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ritikarawat01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/ritikarawat01/LeetCode/tree/master/0047-permutations-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ritikarawat01/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/ritikarawat01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ritikarawat01/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/ritikarawat01/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ritikarawat01/LeetCode/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ritikarawat01/LeetCode/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/ritikarawat01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ritikarawat01/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritikarawat01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ritikarawat01/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ritikarawat01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritikarawat01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/ritikarawat01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ritikarawat01/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ritikarawat01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/ritikarawat01/LeetCode/tree/master/0844-backspace-string-compare) |
