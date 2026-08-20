@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ritikarawat01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/ritikarawat01/LeetCode/tree/master/0047-permutations-ii) |
+| [0257-binary-tree-paths](https://github.com/ritikarawat01/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritikarawat01/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ritikarawat01/LeetCode/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/ritikarawat01/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0844-backspace-string-compare](https://github.com/ritikarawat01/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritikarawat01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ritikarawat01/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ritikarawat01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ritikarawat01/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ritikarawat01/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ritikarawat01/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ritikarawat01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ritikarawat01/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ritikarawat01/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ritikarawat01/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ritikarawat01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ritikarawat01/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ritikarawat01/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ritikarawat01/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
