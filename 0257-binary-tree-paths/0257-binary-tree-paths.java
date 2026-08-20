@@ -13,6 +13,7 @@
  *     }
  * }
  */
+ //preorder + recursion
 class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> arr = new ArrayList<>();
