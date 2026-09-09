@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ritikarawat01/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/ritikarawat01/LeetCode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritikarawat01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/ritikarawat01/LeetCode/tree/master/0994-rotting-oranges) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ritikarawat01/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sorting
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ritikarawat01/LeetCode/tree/master/0037-sudoku-solver) |
+| [0994-rotting-oranges](https://github.com/ritikarawat01/LeetCode/tree/master/0994-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ritikarawat01/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ritikarawat01/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/ritikarawat01/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/ritikarawat01/LeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
