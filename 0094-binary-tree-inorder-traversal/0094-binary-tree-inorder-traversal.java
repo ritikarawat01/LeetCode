@@ -13,20 +13,19 @@
  *     }
  * }
  */
- //Inorder traversal - left, root, right
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> res = new ArrayList<>();
-        inorder(root, res);
+        helper(res, root);
         return res;
 
     }
-    public void inorder(TreeNode root, List<Integer> res){
+    void helper(List<Integer> res, TreeNode root){
         if(root == null){
             return;
         }
-        inorder(root.left, res);
+        helper(res, root.left);
         res.add(root.val);
-        inorder(root.right, res);
+        helper(res, root.right);
     }
 }
