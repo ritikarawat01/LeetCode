@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ritikarawat01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/ritikarawat01/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ritikarawat01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/ritikarawat01/LeetCode/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikarawat01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ritikarawat01/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ritikarawat01/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/ritikarawat01/LeetCode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/ritikarawat01/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ritikarawat01/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritikarawat01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ritikarawat01/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ritikarawat01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/ritikarawat01/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0567-permutation-in-string](https://github.com/ritikarawat01/LeetCode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/ritikarawat01/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritikarawat01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ritikarawat01/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ritikarawat01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/ritikarawat01/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ritikarawat01/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Tree
 |  |
