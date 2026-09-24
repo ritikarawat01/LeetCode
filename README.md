@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ritikarawat01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ritikarawat01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/ritikarawat01/LeetCode/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/ritikarawat01/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ritikarawat01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ritikarawat01/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/ritikarawat01/LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ritikarawat01/LeetCode/tree/master/0509-fibonacci-number) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritikarawat01/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ritikarawat01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/ritikarawat01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/ritikarawat01/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0567-permutation-in-string](https://github.com/ritikarawat01/LeetCode/tree/master/0567-permutation-in-string) |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ritikarawat01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ritikarawat01/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
