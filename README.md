@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ritikarawat01/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/ritikarawat01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/ritikarawat01/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ritikarawat01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ritikarawat01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/ritikarawat01/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ritikarawat01/LeetCode/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ritikarawat01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -257,10 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ritikarawat01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/ritikarawat01/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ritikarawat01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ritikarawat01/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ritikarawat01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
 | ------- |
