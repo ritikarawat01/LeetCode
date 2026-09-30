@@ -18,9 +18,8 @@ class Solution {
         List<Integer> res = new ArrayList<>();
         helper(res, root);
         return res;
-
     }
-    void helper(List<Integer> res, TreeNode root){
+    public void helper(List<Integer> res, TreeNode root){
         if(root == null){
             return;
         }
