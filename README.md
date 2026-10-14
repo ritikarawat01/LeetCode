@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritikarawat01/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/ritikarawat01/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ritikarawat01/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/ritikarawat01/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ritikarawat01/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ritikarawat01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/ritikarawat01/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ritikarawat01/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ritikarawat01/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ritikarawat01/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0684-redundant-connection](https://github.com/ritikarawat01/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ritikarawat01/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ritikarawat01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/ritikarawat01/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -268,12 +270,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/ritikarawat01/LeetCode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/ritikarawat01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/ritikarawat01/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ritikarawat01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/ritikarawat01/LeetCode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/ritikarawat01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ritikarawat01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
