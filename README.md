@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritikarawat01/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ritikarawat01/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ritikarawat01/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/ritikarawat01/LeetCode/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ritikarawat01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ritikarawat01/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/ritikarawat01/LeetCode/tree/master/0733-flood-fill) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ritikarawat01/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ritikarawat01/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ritikarawat01/LeetCode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/ritikarawat01/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ritikarawat01/LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ritikarawat01/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ritikarawat01/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ritikarawat01/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ritikarawat01/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/ritikarawat01/LeetCode/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/ritikarawat01/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ritikarawat01/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ritikarawat01/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -300,4 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ritikarawat01/LeetCode/tree/master/0022-generate-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ritikarawat01/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ritikarawat01/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
