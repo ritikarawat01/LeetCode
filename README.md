@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ritikarawat01/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ritikarawat01/LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ritikarawat01/LeetCode/tree/master/0509-fibonacci-number) |
+| [0576-out-of-boundary-paths](https://github.com/ritikarawat01/LeetCode/tree/master/0576-out-of-boundary-paths) |
 ## Memoization
 |  |
 | ------- |
